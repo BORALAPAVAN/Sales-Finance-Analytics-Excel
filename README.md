@@ -84,9 +84,10 @@ I applied industry-standard analytics techniques to identify growth opportunitie
    
 
 3. **P&L by Fiscal Years**  
-   👉 https://github.com/BORALAPAVAN/Sales-Finance-Analytics-Excel/blob/main/P%26L_By_FiscalYears.pdf  
+   👉https://github.com/BORALAPAVAN/Sales-Finance-Analytics-Excel/blob/main/P%20%26%20L%20%20By%20Fiscal%20year.pdf
+ 
 
-4. **P&L by Fiscal Months**  
+5. **P&L by Fiscal Months**  
    👉 https://github.com/BORALAPAVAN/Sales-Finance-Analytics-Excel/blob/main/P%26L_By_FiscalMonths.pdf  
 
 ---
