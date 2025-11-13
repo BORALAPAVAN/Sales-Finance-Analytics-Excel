@@ -109,6 +109,6 @@ powerful tool for real-world business analysis and decision-making.
 
 ## 📬 Author  
 **Pavan Borala**  
-📧 your-email-here  
-🔗 LinkedIn: your-link-here  
+📧 boralapavan.pa1@gmail.com  
+🔗 LinkedIn: [your-link-here](https://www.linkedin.com/in/borala-pavan-491797253/)  
 
