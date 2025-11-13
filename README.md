@@ -71,7 +71,6 @@ I applied industry-standard analytics techniques to identify growth opportunitie
 ## **Sales Reports**  
 1. **Customer Performance Report**  
    👉 https://github.com/BORALAPAVAN/Sales-Finance-Analytics-Excel/blob/main/Customer%20Performance%20Report.pdf
-   https://github.com/BORALAPAVAN/Sales-Finance-Analytics-Excel/blob/main/Customer_Performance_Report.pdf
      
 
 3. **Market vs Target Performance Report**  
